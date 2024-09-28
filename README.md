@@ -1,19 +1,20 @@
-Project Template description:
+## Project Template description:
+
 ZenFlow Studio is a comprehensive online platform designed to promote yoga practice and wellness. The website will serve as a hub for practitioners of all levels, offering resources such as class schedules, instructional videos, articles on yoga philosophy, and a community forum. The goal is to create an accessible and engaging online space that inspires users to incorporate yoga into their daily lives.
 
-Attributions:
+## Attributions:
 
-Images
+### Images
 
 - [unplashed-yoga-images](https://unsplash.com/images/sports/yoga)
 
-Research and Content
+### Research and Content
 
 - Chat GBT
 - Google
 - [style-shout](https://styleshout.com)
 
-Instructions on how to contribute to the project:
+### Instructions on how to contribute to the project:
 
 1. Understand the Project
 
@@ -58,3 +59,7 @@ Instructions on how to contribute to the project:
 - You should see a prompt to create a pull request for your recently pushed branch. Click on it.
 - Fill out the pull request template, providing a detailed description of your changes.
 - Submit the pull request.
+
+### Setup Instructions
+
+This section provides detailed steps on how to install and configure the project. It typically includes:
