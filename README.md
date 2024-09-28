@@ -4,8 +4,20 @@ ZenFlow Studio is a comprehensive online platform designed to promote yoga pract
 
 ## Attributions:
 
-### Images
+### Fonts:
 
+- Inter Font (https://fonts.google.com/specimen/Inter)
+- DM Serif Text Font (https://fonts.google.com/specimen/DM+Serif+Text)
+- DM Serif Display Font (https://fonts.google.com/specimen/DM+Serif+Display)
+
+### Icons:
+
+- Teenyicons (https://teenyicons.com/)
+- FontAwesome (https://fontawesome.com/)
+
+### Stock Photos and Graphics:
+
+- Unsplash.com (https://unsplash.com/)
 - [unplashed-yoga-images](https://unsplash.com/images/sports/yoga)
 
 ### Research and Content
