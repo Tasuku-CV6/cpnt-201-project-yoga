@@ -60,6 +60,24 @@ ZenFlow Studio is a comprehensive online platform designed to promote yoga pract
 - Fill out the pull request template, providing a detailed description of your changes.
 - Submit the pull request.
 
-### Setup Instructions
+## Setup Instructions
 
-This section provides detailed steps on how to install and configure the project. It typically includes:
+This section provides detailed steps on how to install and configure the project.
+
+### How to Git Clone:
+
+To clone a repository using Git, you can follow these steps:
+
+1. Install Git: Make sure you have Git installed on your machine. You can check this by running git --version in your terminal. If it's not installed, you can download it from git-scm.com.
+
+2. Find the Repository URL: Navigate to the GitHub (or other Git hosting service) page of the repository you want to clone. Click on the green "Code" button and copy the URL (you can choose between HTTPS or SSH).
+
+3. Open Your Terminal: Open a terminal or command prompt on your computer.
+
+4. Navigate to Your Desired Directory: Use the cd command to navigate to the directory where you want to clone the repository. For example: "cd path/to/your/directory"
+
+5. Run the Clone Command: Use the git clone command followed by the repository URL. For example: "git clone https://github.com/username/repository.git"
+
+6. Enter the Directory: After cloning, navigate into the new directory created for the repository: "cd repository"
+
+And that's it! You've successfully cloned the repository. You can now start working with the files locally.
