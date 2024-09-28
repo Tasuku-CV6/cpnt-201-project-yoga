@@ -93,3 +93,17 @@ To clone a repository using Git, you can follow these steps:
 6. Enter the Directory: After cloning, navigate into the new directory created for the repository: "cd repository"
 
 And that's it! You've successfully cloned the repository. You can now start working with the files locally.
+
+### Usage Information:
+
+1. Navigate the Directory, Change into the project directory: "cd repository"
+
+2. Making Changes, To create a new branch for your changes: "git checkout -b my-feature-branch"
+
+3. Committing Changes, Add your changes and commit: "git add ." "git commit -m "Description of changes"
+
+4. Pushing Changes, Push your branch to GitHub: "git push origin my-feature-branch"
+
+5. Creating a Pull Request, Go to the GitHub page of the repository to create a pull request from your branch.
+
+This section provides clear, essential commands for working with a GitHub repository!
